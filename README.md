@@ -1,4 +1,5 @@
 flocci
 ======
 
-Oversimplified continuous integration system
+Cucumber/Gherkin-style test generator for C
+(and other languages too)
